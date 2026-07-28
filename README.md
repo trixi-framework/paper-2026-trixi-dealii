@@ -1,8 +1,7 @@
 # Multi-Solver Coupling for Parallel Adaptive Multi-Physics Simulations with Trixi.jl and deal.II
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-success.svg)](LICENSE)
-
-<!--[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21620203.svg)](https://zenodo.org/doi/10.5281/zenodo.21620203)-->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21647919.svg)](https://doi.org/10.5281/zenodo.21647919)
 
 Reproducibility repository for the paper
 
@@ -32,9 +31,9 @@ If you use the implementation provided here, please also cite this repository as
   author={Ehlert, Vivienne and Gassner, Gregor and Kronbichler, Martin and Ranocha, Hendrik and Schlottke-Lakemper, Michael},
   year={2026},
   howpublished={\url{https://github.com/trixi-framework/paper-2026-trixi-dealii}},
+  doi={10.5281/zenodo.21647919},
 }
 ```
-<!--  doi={10.5281/zenodo.21620203}-->
 
 
 ## Abstract
