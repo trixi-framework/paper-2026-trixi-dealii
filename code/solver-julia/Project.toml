@@ -1,0 +1,20 @@
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+MPI = "da04e1cc-30fd-572f-bb4f-1f8673147195"
+MPIPreferences = "3da0fdf6-3ccc-4f1b-acd9-58baa6c99267"
+OrdinaryDiffEq = "1dea7af3-3e70-54e6-95c3-0bf5283fa5ed"
+P4est = "7d669430-f675-4ae7-b43e-fab78ec5a902"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+Preferences = "21216c6a-2e73-6563-6e65-726566657250"
+PrettyTables = "08abe8d2-0d0c-5749-adfa-8a2ac140af0d"
+Trixi = "a7f1ee26-1774-49b1-8366-f1abc58fbfcb"
+libdealii_trixi_paper2026_jll = "3ca323e4-911d-5acb-879a-5c80261ed61d"
+
+[preferences.OrdinaryDiffEq]
+PrecompileAutoSpecialize = false
+PrecompileAutoSwitch = false
+PrecompileFunctionWrapperSpecialize = false
+PrecompileLowStorage = true
+PrecompileNoSpecialize = false
+PrecompileNonStiff = false
+PrecompileStiff = false
