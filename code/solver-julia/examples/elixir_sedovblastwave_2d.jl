@@ -23,7 +23,7 @@ function initial_condition_sedov_self_gravity(x, t, equations::CompressibleEuler
     # Calculate primitive variables
     # use a logistic function to transfer density value smoothly
     r_ini = 1.0   # center point of function
-    ki    = -150.0 # sharpness of transfer
+    k     = -150.0 # sharpness of transfer
     logistic_function_rho = 1.0 / (1.0 + exp(-k * (r - r_ini)))
     rho_ambient = 1e-5
     rho = max(logistic_function_rho, rho_ambient) # clip background density to not be so tiny
