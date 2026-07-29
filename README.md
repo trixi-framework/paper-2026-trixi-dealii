@@ -15,8 +15,8 @@ If you find these results useful, please cite the article
   title={{Multi}-{Solver} {Coupling} for {Parallel} {Adaptive} {Multi}-{Physics} {Simulations} with {Trixi.jl} and {deal.II}},
   author={Ehlert, Vivienne and Gassner, Gregor and Kronbichler, Martin and Ranocha, Hendrik and Schlottke-Lakemper, Michael},
   year={2026},
-  month={8},
-  eprint={TODO},
+  month={7},
+  eprint={2607.25871},
   eprinttype={arxiv},
   eprintclass={math.NA}
 }
